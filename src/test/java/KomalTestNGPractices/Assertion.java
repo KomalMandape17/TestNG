@@ -15,6 +15,8 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class Assertion {
 //	ExtentTest test; ExtentTest test=new ExtentTest();
 	
+	//	ExtentTest test; ExtentTest test=new ExtentTest();
+	
 	@Test
 	public void VerifyTitle() {
 		
